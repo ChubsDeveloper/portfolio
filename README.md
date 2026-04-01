@@ -11,7 +11,8 @@ I'm a self-taught developer from Sweden with a strong foundation in computer sci
 - **Game Systems & Modding** - Custom WoW server systems, Lua/C++ integration, game mechanics design
 - **Full-Stack Web Development** - PHP backends, JavaScript frontends, responsive design with Tailwind CSS
 - **Desktop Applications** - WPF/C# applications, real-time data handling, Windows integration
-- **Game Development** - LÖVE2D framework, Lua scripting, interactive experiences
+- **Game Development** - Unity, Godot, Unreal Engine, LÖVE2D, and custom game systems
+- **Automation & Tools** - Python scripting for personal tools and workflows
 
 Currently seeking a developer role with a company where I can apply my diverse skill set and continue growing as a software engineer.
 
@@ -68,16 +69,17 @@ Batch-based SHA-256 manifest generator for game patch distribution.
 
 ### Languages
 - **Lua** - Advanced (16+ years with WoW scripting)
-- **C#** - Advanced (WPF, .NET)
+- **C#** - Advanced (WPF, .NET, game development)
 - **PHP** - Advanced (Web backends, APIs)
+- **Python** - Intermediate (Automation scripts, personal tools)
 - **JavaScript** - Intermediate (Frontend, ES6+)
 - **C++** - Intermediate (Game systems, core modifications)
 - **Batch/PowerShell** - Intermediate (Automation, tooling)
 - **SQL** - Advanced (Database design, optimization)
 
 ### Technologies & Frameworks
+- **Game Engines** - Unity, Godot, Unreal Engine, LÖVE2D
 - **WPF** - Desktop application development
-- **LÖVE2D** - 2D game framework
 - **Tailwind CSS** - Responsive design
 - **MySQL** - Database management
 - **REST APIs** - Design and integration
@@ -86,6 +88,7 @@ Batch-based SHA-256 manifest generator for game patch distribution.
 
 ### Areas of Expertise
 - Game server systems and scripting
+- Game development (Unity, Godot, Unreal Engine)
 - Full-stack web application development
 - Desktop application design
 - Database architecture and optimization
@@ -93,6 +96,7 @@ Batch-based SHA-256 manifest generator for game patch distribution.
 - UI/UX implementation
 - Performance optimization
 - Real-time systems
+- Automation and tooling
 
 ---
 
