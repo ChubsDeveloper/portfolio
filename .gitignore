@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.user
+.code/
+
+# Temporary files
+*.tmp
+*.bak
+.env
